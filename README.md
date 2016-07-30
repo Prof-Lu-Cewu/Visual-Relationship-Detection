@@ -1,6 +1,6 @@
 # Visual Relationship Detection with Language Priors
 
-# Visaul-Relationship-Detection is system that detects visual relationship (<subject, predicate, object>) given a RGB image.
+## Visaul-Relationship-Detection is system that detects visual relationship (<subject, predicate, object>) given a RGB image.
 
 Detailed description of the system will be provided by our technical report at ECCV 2016 website http://www.ranjaykrishna.com/index.html
 
@@ -33,8 +33,7 @@ To detect relationship in our relationship dataset (http://www.ranjaykrishna.com
 >> run predicate_detection.m;
 ```
 
-
-
+ 
 
 
 
