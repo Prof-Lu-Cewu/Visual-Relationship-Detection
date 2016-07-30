@@ -6,8 +6,10 @@ Visaul-Relationship-Detection is system that detects visual relationship (includ
 Detailed description of the system will be provided by our technical report at ECCV 2016 website http://www.ranjaykrishna.com/index.html
 
 "Visual Relationship Detection with Language Priors",
-Cewu Lu*, Ranjay Krishna*, Michael Bernstein, Li Fei-Fei, European Conference on Computer Vision, 
-(ECCV 2016), 2016(oral). (* = indicates equal contribution)
+Cewu Lu*, Ranjay Krishna*, Michael Bernstein, Li Fei-Fei, 
+(* = indicates equal contribution)
+European Conference on Computer Vision, (ECCV 2016), 2016(oral).
+
 
 ##Licence
 
