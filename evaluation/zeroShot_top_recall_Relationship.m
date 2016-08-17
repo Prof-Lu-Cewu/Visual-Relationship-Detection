@@ -30,7 +30,7 @@ end
 
 num_pos_tuple = 0;
 for ii = 1 : num_imgs
-    num_pos_tuple = num_pos_tuple + length(gt_tuple_label{ii});
+    num_pos_tuple = num_pos_tuple + size(gt_tuple_label{ii},1);
 end
  
 
