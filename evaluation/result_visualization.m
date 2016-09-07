@@ -2,16 +2,16 @@ function result_visualization(id, idx, saveFile, rlp_labels_ours, rlp_confs_ours
 
     dataset_test = 'samples'; 
     
-    load('data\imagePath.mat')    
-    load('data\relationListN.mat')
-    load('data\objectListN.mat')
-    if ~exist([dataset_test,'\',imagePath{id}])
+    load('data/imagePath.mat')    
+    load('data/relationListN.mat')
+    load('data/objectListN.mat')
+    if ~exist([dataset_test,'/',imagePath{id}])
         disp('please download scene graph dataset form')
         disp('############')
         return;
     end
     
-    im = im2double(imread([dataset_test,'\',imagePath{id}]));
+    im = im2double(imread([dataset_test,'/',imagePath{id}]));
     vw = 4; 
 
     box1 = sub_bboxes_ours{id}(idx,:);
