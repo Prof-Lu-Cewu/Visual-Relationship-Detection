@@ -1,6 +1,7 @@
 # Visual Relationship Detection with Language Priors
-Cewu Lu*, Ranjay Krishna*, Michael Bernstein, Li Fei-Fei, European Conference on Computer Vision,
-(ECCV 2016), 2016 **(oral)**. (* = indicates equal contribution)
+Cewu Lu\*, Ranjay Krishna\*, Michael Bernstein, Li Fei-Fei, 
+European Conference on Computer Vision (ECCV), 2016, 
+**(oral)**. (\* = indicates equal contribution)
 
 ## Citation
 ```
